@@ -36,8 +36,9 @@ http://localhost:3000/api
 Para configurar ver video:
 
 https://knowmadmood.udemy.com/course/vuejs-fh/learn/lecture/43914216?start=15#overview
-Usuarios en BBDD:
-tes1@google.com: Abc123
-tes2@google.com: Abc123
+
+- Usuarios en BBDD:
+  - tes1@google.com: Abc123
+  - tes2@google.com: Abc123
 
 # Production notes:
